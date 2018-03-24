@@ -1,5 +1,5 @@
 
-1. Write a shell script to display only datw and time from date command
+1. Write a shell script to display only date and time from date command
 A. date +%r.+%d
 2. Write a shell script to check whether a number is +ve or -ve 
 A. echo "Enter the number"
